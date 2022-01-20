@@ -16,7 +16,8 @@
     "react-scroll": "^1.8.4",
     "react-vertical-timeline-component": "^3.5.2",
     "styled-components": "^5.3.3",
-    "web-vitals": "^2.1.2"
+    "web-vitals": "^2.1.2",
+    "yarn": "^1.22.17"
   },
   "scripts": {
     "start": "react-scripts start",
