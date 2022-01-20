@@ -24,10 +24,10 @@ html {
 
 
     @media only screen and (max-width: 1200px){
-        font-size: 70%;
+        font-size: 100%;
     }
     @media only screen and (min-width: 1980px){
-        font-size: 80%;
+        font-size: 100%;
     }
 }
 

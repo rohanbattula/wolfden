@@ -10,6 +10,7 @@ import banner from '../images/background2.png';
 import { VerticalTimeline, VerticalTimelineElement }  from 'react-vertical-timeline-component';
 import 'react-vertical-timeline-component/style.min.css';
 import AOS from 'aos';
+
 import 'aos/dist/aos.css'; // You can also use <link> for styles
 import GlobalStyles from '../globalstyles.js';
 const Home = () => {
